@@ -1,0 +1,16 @@
+# Arduino/build
+*.elf
+*.hex
+*.bin
+*.map
+.pio/
+build/
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Secrets
+*.local
+.env
+config.h
