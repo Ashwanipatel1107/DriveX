@@ -117,15 +117,6 @@ Two demonstration videos are included in [`media/demo/`](media/demo/).
 - Voice control
 - Cloud data logging
 
-## Project Team
-
-Based on the submitted project report:
-
-- **Ashwani Patel**
-- **Bhumika Chaudhary**
-- **Anuj Bansal**
-- **Anil Soni**
-
 ## License
 
 MIT License — see [`LICENSE`](LICENSE).
